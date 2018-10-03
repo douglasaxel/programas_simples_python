@@ -1,0 +1,6 @@
+import testando
+
+numero = 13
+txt = 'MANO QUE LOUCURA, VAMO VE SE ISSO DAQUI TA FUNCIONANDO MSM JAJAJAJAJJAJA'
+
+print(txt)
